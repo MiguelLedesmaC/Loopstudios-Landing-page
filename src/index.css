@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+@media (min-width:1024px) {
+    li:hover {
+        border-bottom:2px solid white;
+        height: 40px;
+    }
+}
